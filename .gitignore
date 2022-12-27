@@ -129,10 +129,13 @@ dmypy.json
 .pyre/
 
 
-#folers
+# folers
 Data/*
 TestData/*
 
 
-#weights
+# weights
 model.tfl*
+
+# word files
+*.docx
