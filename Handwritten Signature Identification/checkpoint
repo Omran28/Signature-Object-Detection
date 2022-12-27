@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/luka/git_repos/Signature-Object-Detection/Handwritten Signature Identification/model.tfl"
+all_model_checkpoint_paths: "/home/luka/git_repos/Signature-Object-Detection/Handwritten Signature Identification/model.tfl"
