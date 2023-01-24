@@ -168,7 +168,6 @@ for pic in test_pics:
     test_v.append([img])
 x_test = np.array([i for i in test_img]).reshape(-1, IMG_SIZE, IMG_SIZE, 1)
 
-print('hh')
 
 pred = model.predict(x_test)
 
